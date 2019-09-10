@@ -1,1 +1,1 @@
-# hostinger.github.io
+# https://romualdascode.github.io/hostinger/
