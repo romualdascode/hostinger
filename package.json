@@ -1,0 +1,23 @@
+{
+  "name": "hostinger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-postcss": "^8.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
